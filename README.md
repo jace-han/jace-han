@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is **Jace Han** and my life is like a squiggle ⤴⤵⤴⤵
+
+During my Bachelor's Degree in Life Sciences, I stumbled upon the AI space and still exploring to this day. 
+
+If we share the same interest in **AI and Data Science**, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jace-han/), I would love to hear about what you are working on! I'm hoping to work on some side projects to curate my portfolio and make open source contributions to projects I align with.
+
+This repository will keep track of my progress, stay tuned! ✨✨
+
 <!--
 **jace-han/jace-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
