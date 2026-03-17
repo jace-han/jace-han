@@ -1,1 +1,1 @@
-rubber ducks are better than humans.
+I like solving problems.
